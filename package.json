@@ -1,0 +1,19 @@
+{
+  "name": "coinstack",
+  "version": "0.1.0",
+  "description": "Let the Coins Stack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uumoss-bb/CoinStack.git"
+  },
+  "author": "Londelo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uumoss-bb/CoinStack/issues"
+  },
+  "homepage": "https://github.com/uumoss-bb/CoinStack#readme"
+}
