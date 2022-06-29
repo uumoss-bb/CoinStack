@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/uumoss-bb/CoinStack/issues"
   },
-  "homepage": "https://github.com/uumoss-bb/CoinStack#readme"
+  "homepage": "https://github.com/uumoss-bb/CoinStack#readme",
+  "dependencies": {
+    "plaid": "^10.7.0"
+  }
 }
