@@ -1,7 +1,8 @@
 {
   "expo": {
-    "name": "rnp",
-    "slug": "rnp",
+    "owner": "bbalser",
+    "name": "coinstack",
+    "slug": "coinstack",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
