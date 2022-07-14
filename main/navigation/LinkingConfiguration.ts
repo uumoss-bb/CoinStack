@@ -15,9 +15,9 @@ const linking: LinkingOptions<RootStackParamList> = {
     screens: {
       Root: {
         screens: {
-          TabOne: {
+          CsvInput: {
             screens: {
-              TabOneScreen: 'one',
+              CsvInputScreen: 'one',
             },
           },
           TabTwo: {
